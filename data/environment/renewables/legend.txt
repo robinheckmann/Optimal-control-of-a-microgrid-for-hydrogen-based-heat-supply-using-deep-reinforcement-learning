@@ -1,0 +1,11 @@
+T2m: 2-m air temperature (degree Celsius)
+RH: relative humidity (%)
+G(h): Global irradiance on the horizontal plane (W/m2)
+Gb(n): Beam/direct irradiance on a plane always normal to sun rays (W/m2)
+Gd(h): Diffuse irradiance on the horizontal plane (W/m2)
+IR(h): Surface infrared (thermal) irradiance on a horizontal plane (W/m2)
+WS10m: 10-m total wind speed (m/s)
+WD10m: 10-m wind direction (0 = N, 90 = E) (degree)
+SP: Surface (air) pressure (Pa)
+
+PVGIS (c) European Union, 2001-2022

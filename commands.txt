@@ -1,0 +1,7 @@
+python main.py --eval true --ckpt DDPG.pt
+
+tensorboard --logdir=runs
+
+
+
+python main.py --eval true --ckpt data/output/DDPG/models/DDPG.pt
